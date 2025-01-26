@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mx0D6PQBrk4Pl9o3w/kDA+OBA8Dm8UiQTj919CIN/6w=",
+  "Source": "HLS.MediaService",
+  "BasePath": "_content/HLS.MediaService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

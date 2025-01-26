@@ -1,0 +1,6 @@
+@HLS.MediaService_HostAddress = http://localhost:5147
+
+GET {{HLS.MediaService_HostAddress}}/Media/
+Accept: application/json
+
+###

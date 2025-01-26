@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkcNU5Gz52uckbDSTlaSEDQbkd7uhMzmtu5BRnA7PCiYDga4DZ+iI+YmuNDLy+nohUVe6q/UhhiCL4zBby8yIw==",
+  "success": true,
+  "projectFilePath": "E:\\Learning\\Video Encryption\\video.encryption\\HLS.MediaService\\HLS.MediaService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naresh.nagal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

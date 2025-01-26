@@ -1,0 +1,3 @@
+http://localhost:17663/api/encryption/get-key
+key/encryption.key
+578c0e1faf0f0270720ff748acf608c7
