@@ -1,8 +1,8 @@
 **Video Encryption and Streaming Supported by M3U8 Format Using FFmpeg**
 
 **Install FFmpeg on Your Local Computer:**
-URL: https://www.gyan.dev/ffmpeg/builds/
-File: ffmpeg-git-full.7z
+1. URL: https://www.gyan.dev/ffmpeg/builds/
+2. File: ffmpeg-git-full.7z
 
 **Installation Process:**
 1. Download the latest version of ffmpeg-git-full.7z from the URL above and unzip it. Copy the unzipped folder to the C:\ drive (or your preferred location).
