@@ -1,5 +1,7 @@
 **Video Encryption and Streaming Supported by M3U8 Format Using FFmpeg**
 
+**How it works**
+
 **Install FFmpeg on Your Local Computer:**
 1. URL: https://www.gyan.dev/ffmpeg/builds/
 2. File: ffmpeg-git-full.7z
