@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 324,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,10 +61,6 @@
               "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MediaController.cs",
@@ -72,7 +68,7 @@
               "RelativeDocumentMoniker": "Controllers\\MediaController.cs",
               "ToolTip": "E:\\Learning\\Video Encryption\\video.encryption\\HLS.MediaService\\Controllers\\MediaController.cs",
               "RelativeToolTip": "Controllers\\MediaController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAApwBEAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAApwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T11:01:51.427Z",
               "EditorCaption": ""
@@ -121,9 +117,10 @@
               "RelativeDocumentMoniker": "Controllers\\HLSController.cs",
               "ToolTip": "E:\\Learning\\Video Encryption\\video.encryption\\HLS.MediaService\\Controllers\\HLSController.cs",
               "RelativeToolTip": "Controllers\\HLSController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowB4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:37:45.279Z"
+              "WhenOpened": "2025-01-21T04:37:45.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

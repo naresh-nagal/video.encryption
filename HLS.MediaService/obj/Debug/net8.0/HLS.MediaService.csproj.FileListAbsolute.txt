@@ -59,3 +59,4 @@ E:\Learning\Video Encryption\video.encryption\HLS.MediaService\obj\Debug\net8.0\
 E:\Learning\Video Encryption\video.encryption\HLS.MediaService\obj\Debug\net8.0\HLS.MediaService.pdb
 E:\Learning\Video Encryption\video.encryption\HLS.MediaService\obj\Debug\net8.0\HLS.MediaService.genruntimeconfig.cache
 E:\Learning\Video Encryption\video.encryption\HLS.MediaService\obj\Debug\net8.0\ref\HLS.MediaService.dll
+E:\Learning\Video Encryption\video.encryption\HLS.MediaService\bin\Debug\net8.0\mpeg\test.txt

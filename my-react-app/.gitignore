@@ -4,12 +4,17 @@
 /node_modules
 /.pnp
 .pnp.js
+.vs/
 
 # testing
 /coverage
 
 # production
 /build
+
+# React app specific
+/my-react-app/node_modules
+/my-react-app/build
 
 # misc
 .DS_Store
